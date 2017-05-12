@@ -44,5 +44,5 @@ ScreenUtil.java(屏幕工具类) StatusBarUtils.java和StatusBarUtil.java及Stat
     2.在app目录下的build.gradle添加依赖使用
 
    	dependencies {
-   		compile 'com.github.User:Repo:Tag'
+   		compile 'com.github.LijieSong:Utils:v1.0'
    	}
