@@ -20,19 +20,28 @@
 - [OKhttp](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/request/okhttp) 	OKHTTP请求
 - [volley](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/request/volley) volley请求
 - [xutils3](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/request/xutils) 	xUtils3请求,请视具体情况适用.
+
 2.[acache](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/acache)包下为缓存工具类或者清理缓存的工具类所在.
+
 3.[permission](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/permission)包下为抽离环信的权限判断与请求的工具类.
+
 4.[storage](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/storage)包下为SDK相关的工具类
+
 5.[media](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/media)包下包含有
+
 - [AudioRecoderUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/media/AudioRecoderUtils.java)录音/或播放工具类
 - [glide](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/media/GildeTools)工具类
 - [volley](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/media/VolleyTools)加载图片的工具类
 - 其他关于[bitmap或者drawable](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/media)的工具类
+
 6.[string](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/string)包下包含有
+
 - [AESUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/string/AESUtils.java)(AES加密解密工具类)
 - [MD5](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/string/MD5.java)(MD5加密工具类)
 - [其他工具类](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/string).具体自己看源码
+
 7.[sys](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/sys)包下含有
+
 - [NetUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/NetUtils)	抽离环信的网络判断工具类
 - [MapUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/MapUtils.java)	开启地图导航/判断是否安装有地图APP的工具类	 
 - [SetTelCountTimer](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/SetTelCountTimer.java)	倒计时button的工具类 
