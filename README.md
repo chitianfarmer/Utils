@@ -62,7 +62,7 @@ a.下拉刷新上拉加载: [swipyrefresh](https://github.com/LijieSong/Utils/tr
 - [SwipyRefreshLayoutDirection](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/weight/swipyrefresh/SwipyRefreshLayoutDirection.java) 配合下拉刷新/上拉加载更多使用
 
 b.webview相关 [webView](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/weight/webView)包
-- [scrollWebview](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/weight/webView/scrollWebview.java)  可滑动的webview
+- [scrollWebview](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/weight/webView/ScrollWebView.java)  可滑动的webview
 - [MyWebViewClient](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/weight/webView/MyWebViewClient.java) 帮助WebView处理各种通知、请求事件的(带dialog)
 - [MyWebChromeClient](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/weight/webView/MyWebChromeClient.java) 辅助WebView处理Javascript的对话框，网站图标，网站title，加载进度
 
