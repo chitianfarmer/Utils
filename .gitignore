@@ -38,3 +38,5 @@ captures/
 # Keystore files
 *.jks
 gotye.keystore
+app/libs/
+app/src/main/res/drawable/
