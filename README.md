@@ -45,4 +45,4 @@ ScreenUtil.java(屏幕工具类) StatusBarUtils.java和StatusBarUtil.java及Stat
 
    	dependencies {
    		compile 'com.github.User:Repo:Tag'
-   	    }
+   	}
