@@ -6,10 +6,14 @@ import android.util.Log;
 import android.webkit.WebView;
 
 /**
- * Title: ScrollWebView.java
- * Description: 
- * @author Liusong
- * @version V1.0
+ * 项目名称：QianShan
+ * 类描述：ScrollWebView 可滑动的webview
+ * 创建人：slj
+ * 创建时间：2016-8-22 11:58
+ * 修改人：slj
+ * 修改时间：2016-8-22 11:58
+ * 修改备注：
+ * 邮箱:slj@bjlingzhuo.com
  */
 public class ScrollWebView extends WebView {
 	public OnScrollChangeListener listener;
