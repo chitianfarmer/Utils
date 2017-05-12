@@ -68,6 +68,11 @@ b.webview相关 [webView](https://github.com/LijieSong/Utils/tree/master/app/src
 
 9.[util](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/util)包为别人一体整理的工具类
 
+10.[view](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/view)包下含有
+
+- [AnimUtils](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/view/AnimUtils.java) 动画工具类,按照参数传就OK
+- [ViewFindUtils](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/view/ViewFindUtils.java) 简写ViewHodler 和findViewById
+
 如何使用?
 
 1.首先在你的根目录的build.gradle添加这一句代码
