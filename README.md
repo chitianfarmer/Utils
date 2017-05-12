@@ -14,3 +14,20 @@
 9.sys包下含有NetUtils.java(抽离环信的网络判断工具类) MapUtils.java(开启地图导航/判断是否安装有地图APP的工具类) SetTelCountTimer.java(倒计时button的工具类)
 SystemUtils.java(关于系统信息的工具类) Validator.java(判断工具类,如手机号,E_mail等) ZipUtil.java(压缩/解压工具类) ReflectionUtil.java(反射工具类)
 ScreenUtil.java(屏幕工具类) StatusBarUtils.java和StatusBarUtil.java及StatusBarView.java(沉浸式状态栏工具类) DataUtils.java和DateUtils.java(事件处理工农工具类)
+10.新增自定义下拉刷新上拉加载更多,自定义webview MyWebViewClient MyWebChromeClient
+
+怎么使用?
+    1.首先在你的根目录的build.gradle添加这一句代码
+
+    allprojects {
+      		repositories {
+      			...
+      			maven { url 'https://jitpack.io' }
+      		}
+      	}
+
+    2.在app目录下的build.gradle添加依赖使用
+
+   	dependencies {
+   		compile 'com.github.User:Repo:Tag'
+   	}
