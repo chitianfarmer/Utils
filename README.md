@@ -5,6 +5,8 @@
 2.希望大家积极整理维护,争取创建一个强大的android工具类.
 
 3.本项目已上传到[jitpack.io](https://jitpack.io),使依赖更方便.
+
+4.依赖jar包下载:[点击下载](http://download.csdn.net/detail/qq_31590149/9840750).
 	
 	说明:V1.0
 	
