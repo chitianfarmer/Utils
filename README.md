@@ -88,5 +88,5 @@ b.webview相关 [webView](https://github.com/LijieSong/Utils/tree/master/app/src
 
    		dependencies {
 			//copy to your app build 
-   			compile 'com.github.LijieSong:Utils:v1.0'
+   			compile 'com.github.LijieSong:Utils:v1.1'
    		}
