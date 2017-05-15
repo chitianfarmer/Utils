@@ -9,6 +9,18 @@ android {
         versionCode 1
         versionName "1.0"
     }
+//    sourceSets {
+//        main {
+//            java.srcDirs = ['src']
+//            resources.srcDirs = ['src']
+//            aidl.srcDirs = ['src']
+//            renderscript.srcDirs = ['src']
+//            res.srcDirs = ['res']
+////            manifest.srcFile 'AndroidManifest.xml'
+//            assets.srcDirs = ['assets']
+//
+//        }
+//    }
     lintOptions {
         abortOnError false
         checkReleaseBuilds false
