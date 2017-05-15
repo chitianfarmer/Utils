@@ -52,6 +52,8 @@
 - [ScreenUtil](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/ScreenUtil.java)	屏幕工具类
 - [StatusBarUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/StatusBarUtils.java)和[StatusBarUtil](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/StatusBarUtil.java)及[StatusBarView](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/StatusBarView.java)	沉浸式状态栏工具类
 - [DataUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/DataUtils.java)和[DateUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/DateUtils.java)		时间处理工具类	
+- [SoftKeyboardUtil](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/SoftKeyboardUtil.java)  键盘工具类
+- [TimePickUtils](https://github.com/LijieSong/Utils/blob/master/app/src/main/java/com/example/user/utils/sys/TimePickUtils.java)  时间选择器工具类
 
 8.[weight](https://github.com/LijieSong/Utils/tree/master/app/src/main/java/com/example/user/utils/weight)包下自定义控件,包含有
 
