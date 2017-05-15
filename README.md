@@ -6,7 +6,7 @@
 
 3.本项目已上传到[jitpack.io](https://jitpack.io),使依赖更方便.
 
-4.依赖jar包下载:[点击下载](http://download.csdn.net/detail/qq_31590149/9840750).
+4.依赖jar包下载:[点击下载](http://download.csdn.net/detail/qq_31590149/9840750).(由于CSDN上不能修改已上传的资源,故此版本为1.0版本)
 	
 	说明:V1.0
 	
@@ -91,4 +91,9 @@ b.webview相关 [webView](https://github.com/LijieSong/Utils/tree/master/app/src
    		dependencies {
 			//copy to your app build 
    			compile 'com.github.LijieSong:Utils:v1.1'
-   		}
+   		}
+写在后面
+
+1.1.0版本完成后,一直在整理和收集常用的工具类,此处感谢Android交流群群成员的支持.
+
+2.1.1版本,新增时间选择器工具类,键盘工具类.
