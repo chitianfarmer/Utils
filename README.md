@@ -6,7 +6,7 @@
 
 3.本项目已上传到[jitpack.io](https://jitpack.io),使依赖更方便.
 
-4.依赖jar包下载:[点击下载](http://download.csdn.net/detail/qq_31590149/9840750).(由于CSDN上不能修改已上传的资源,故此版本为1.0版本)
+4.依赖jar包下载:[点击下载](http://download.csdn.net/detail/qq_31590149/9840750).(由于CSDN上不能修改已上传的资源,故此版本为1.0版本,最新jar包下载请跳转[工具类](http://pan.baidu.com/s/1kUW7dUf))
 	
 	说明:V1.0
 	
